@@ -6,7 +6,7 @@
     "forms",
     "captcha"
   ],
-  "type": "library",
+  "type": "dravencms-package",
   "license": "LGPL-3.0",
   "homepage": "https://github.com/dravencms/captcha",
   "authors": [
