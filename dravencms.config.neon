@@ -1,0 +1,2 @@
+extensions:
+	dravencms.captcha: Dravencms\Captcha\DI\CaptchaExtension

@@ -26,5 +26,10 @@
     "psr-4": {
       "Dravencms\\Captcha\\": "src"
     }
+  },
+  "extra": {
+    "dravencms": {
+      "configuration": "dravencms.config.neon"
+    }
   }
 }
